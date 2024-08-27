@@ -1,4 +1,4 @@
-# Hi 👋, I’m @EclipticCode
+# Hi 👋, I’m Janani
 
 #### A Software Developer with strong problem-solving skills, passionate about mastering new technologies.
 - 👨‍💻 Explore my projects: [Portfolio](https://jananib-portfolio.netlify.app/)
