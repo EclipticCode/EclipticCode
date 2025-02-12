@@ -4,7 +4,7 @@
 - 👨‍💻 Explore my projects: [Portfolio](https://jananib-portfolio.netlify.app/)
 - 🌱 Currently seeking **Full Stack Developer** opportunities
 - 📫 Reach me at: [mailjanani6@gmail.com](mailjanani6@gmail.com)
-- 📄 Learn more about my experience: [Resume](https://drive.google.com/file/d/1Sv-m7X4Nwy-jj7sEx97HHjzsuxQ5OUXY/view?usp=sharing)
+- 📄 Learn more about my experience: [Resume](https://drive.google.com/file/d/1Mv78Xu7KVy2-iZDvFpiEcQsi9rzt6mTc/view?usp=sharing)
 
 
 
